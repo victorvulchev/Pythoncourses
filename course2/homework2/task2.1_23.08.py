@@ -1,0 +1,10 @@
+school = " 32 SOU sv. Kliment Ohridski "
+print(school.title())
+print(school.upper())
+print(school.lower())
+print(school.replace("32", "11"))
+print(school.find("Kliment"))
+print(school.strip())
+print(school.split(" "))
+print(school.startswith(" 32"))
+print(school.endswith("Peter"))
